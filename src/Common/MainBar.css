@@ -1,0 +1,15 @@
+
+
+.navbar.navbar-dark .header-cart-icon>a, .navbar.navbar-dark .header-language>a, .navbar.navbar-dark .header-search-icon>a, .navbar.navbar-dark .header-social-icon>a, .navbar.navbar-dark .nav-bar-contact, .navbar.navbar-dark .navbar-nav .nav-link, .top-bar.navbar-light, .top-bar.navbar-light .header-cart-icon>a, .top-bar.navbar-light .header-language.dropdown-style-01 .btn, .top-bar.navbar-light .header-language>a, .top-bar.navbar-light .header-search-icon>a, .top-bar.navbar-light .header-social-icon>a, .top-bar.navbar-light .top-bar-contact-list>a {
+    color: #fff;
+}
+.navbar .navbar-nav .nav-link {
+    padding: 25px 0;
+    font-weight: 500;
+    font-size: 14px;
+    margin: 0 18px;
+    word-break: normal;
+}
+.fonts {
+    font-size: 70px;
+}
